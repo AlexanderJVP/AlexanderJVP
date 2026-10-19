@@ -89,12 +89,12 @@ reach_me: alexandervanpuyenbroeck.com
   <img src="https://streak-stats.demolab.com?user=AlexanderJVP&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## 🐍 Contribution snake
+## 🏃 Contribution parkour
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexanderJVP/AlexanderJVP/output/github-snake-dark.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/AlexanderJVP/AlexanderJVP/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexanderJVP/AlexanderJVP/output/runner-dark.svg" />
+    <img alt="A pixel runner jumping across my contribution graph" src="https://raw.githubusercontent.com/AlexanderJVP/AlexanderJVP/output/runner.svg" />
   </picture>
 </p>
 
