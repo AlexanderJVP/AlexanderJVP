@@ -30,7 +30,7 @@ interests:
   - Full-stack web apps (database schema to polished UI)
   - AI & machine learning (CNNs, reinforcement learning, RAG)
   - Developer tools & terminal clients
-currently_building: flowSupply — order management SaaS
+currently_building: supplyFlow & toeval
 reach_me: alexandervanpuyenbroeck.com
 ```
 
@@ -65,16 +65,16 @@ reach_me: alexandervanpuyenbroeck.com
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/AlexanderJVP/flowsupply"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderJVP&repo=flowsupply&theme=tokyonight&hide_border=true" alt="flowsupply" /></a>
-  <a href="https://github.com/AlexanderJVP/ase-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderJVP&repo=ase-platform&theme=tokyonight&hide_border=true" alt="ase-platform" /></a>
+  <a href="https://github.com/AlexanderJVP/supplyFlow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderJVP&repo=supplyFlow&theme=tokyonight&hide_border=true" alt="supplyFlow" /></a>
+  <a href="https://github.com/AlexanderJVP/toeval"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderJVP&repo=toeval&theme=tokyonight&hide_border=true" alt="toeval" /></a>
   <a href="https://github.com/AlexanderJVP/canvas-terminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderJVP&repo=canvas-terminal&theme=tokyonight&hide_border=true" alt="canvas-terminal" /></a>
   <a href="https://github.com/AlexanderJVP/Digit_Recognition_System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderJVP&repo=Digit_Recognition_System&theme=tokyonight&hide_border=true" alt="Digit_Recognition_System" /></a>
 </p>
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**flowSupply**](https://github.com/AlexanderJVP/flowsupply) | Order-management SaaS connecting assembly and supply teams, with handshake approvals and audit logs | TypeScript · Supabase · PostgreSQL |
-| [**ASE Platform**](https://github.com/AlexanderJVP/ase-platform) | Mobile-first platform for discovering student events in Antwerp | Next.js · React · Tailwind |
+| [**supplyFlow**](https://github.com/AlexanderJVP/supplyFlow) | Manufacturing operations platform: order management between assembly and supply teams | TypeScript · Supabase · Docker |
+| [**toeval**](https://github.com/AlexanderJVP/toeval) | Belgian open-data platform: scheduled ingestion into a DuckDB + Parquet warehouse, spurious correlations and self-supervised time series | Python · DuckDB · Parquet |
 | [**canvas-terminal**](https://github.com/AlexanderJVP/canvas-terminal) | Terminal client for the Canvas LMS REST API | Go |
 | [**Digit Recognition**](https://github.com/AlexanderJVP/Digit_Recognition_System) | Neural network that recognizes handwritten digits | Python · Jupyter |
 
